@@ -39,7 +39,5 @@ To run this game, you need an x86 DOS emulator.
 2. Open **DOSBox**.
 3. Mount your directory: `mount c C:\path\to\your\folder`
 4. Switch to the drive: `c:`
-5. Compile and link (if using MASM):
-   ```text
-   masm dino.asm;
-   link dino.obj;
+5. Compile and link
+
